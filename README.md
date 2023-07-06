@@ -74,6 +74,8 @@ Tujuan transformasi perspektif dalam pengolahan deteksi plat nomor:
     - Menampilkan hasil ekstraksi karakter pada plat nomor.
     - Menyimpan hasil deteksi dan ekstraksi karakter dalam bentuk output yang sesuai (binery,edges image).
    
+## GAMBAR 
+![image.JPEG]( {../image/} )
 
 ## PENJELASAN PROGRAM
 - Import Library
